@@ -99,6 +99,7 @@ Snap of Total Number of Employees
 
 
 Snap of Attrition Count:
+
 ![2](https://github.com/TheDataVirtuoso/CollinsBahati.github.io/assets/87636760/c8e1b0ab-054d-42ef-ab27-815cef9cf445)
 
 
@@ -135,6 +136,7 @@ Snap of Active Employees
 Use the field "Sum of Age" to calculate the average age of employees.
 
 Snap of Average Age
+
 ![5](https://github.com/TheDataVirtuoso/CollinsBahati.github.io/assets/87636760/a6669e71-722b-4814-a1da-d578e77d1ff0)
 
 
