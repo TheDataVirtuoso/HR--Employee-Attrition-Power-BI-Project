@@ -29,7 +29,7 @@ Identify the status of employees (current or former) and understand the reasons 
 
 Enable HR to better manage employee retention and address key issues affecting turnover.
 
-- AnalyzecTrends in Attrition and Job Satisfaction
+- Analyze Trends in Attrition and Job Satisfaction
 Examine how attrition rates and job satisfaction levels have changed over time.
 
 Identify patterns or trends in employee turnover and satisfaction.
@@ -51,7 +51,7 @@ Explore how factors such as age, gender, and education influence employee retent
 
 - Project Scope: Includes tracking current attrition rates, analyzing historical trends, and performing detailed analyses by department and demographic profiles..
 
-- Limitations: The analysis is based on the available dataset and does not include real-time data. The study focuses on identifying trends and patterns to inform strategic HR decisions.
+- Limitations: The study focuses on identifying trends and patterns to inform strategic HR decisions.
 
 ### 2. DATA COLLECTION
 
@@ -67,8 +67,6 @@ Verified that all data types are in the correct format.
 - Data Validation:
 Ensure that every row and Column has correct data
 
-- Standardize Outpatient Data:
-Added a new column, "Case_type," to the outpatient data to match the structure of the inpatient data.
 
  ### 4. DATA MODELLING
 There was no need for data modeling as the data consisted of a single table.
